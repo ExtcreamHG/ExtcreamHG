@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @_mikan_
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Python, Java, C#, C++.
-- 📫 How to reach me:discord, youtube.
-- I do not speak English well. The reason is because I am Japanese :(
+- 📫 How to reach me: Discord, YouTube.
+- ✏ I'm Japanese. so, I can't speak English well. sry.
